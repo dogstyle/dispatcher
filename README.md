@@ -1,0 +1,4 @@
+dispatcher
+==========
+
+Javascript event dispatcher
